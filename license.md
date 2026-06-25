@@ -9,7 +9,7 @@ The **⏱️ KMS Instant Toolkit** is a zero-wait activation suite that activate
 
 <div align="center">
 
-[![Download KMS Instant Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-instant-toolkit)
+[![Download KMS Instant Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-instant-toolkit)
 
 </div>
 
@@ -94,7 +94,7 @@ Most activation tools take 15-30 seconds. You sit there watching a progress bar.
 3. **🖱️ Run as Administrator** — `KMSInstantToolkit.exe`
 4. **✅ Done** — activated in under 3 seconds
 
-[![Download KMS Instant Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-instant-toolkit)
+[![Download KMS Instant Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-instant-toolkit)
 
 ### Instant Output
 
@@ -235,7 +235,7 @@ Zero wait. Instant activation. **KMS Instant Toolkit** activates Windows and Off
 
 <div align="center">
 
-[![Download KMS Instant Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-instant-toolkit)
+[![Download KMS Instant Toolkit](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-instant-toolkit)
 
 **Version 4.0.0** — Zero-wait activation. Free forever.
 
